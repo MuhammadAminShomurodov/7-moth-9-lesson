@@ -1,0 +1,104 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Learn React",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "text": "Learn Redux",
+      "complete": false
+    },
+    {
+      "id": 3,
+      "text": "Setup Ant Design",
+      "complete": false
+    },
+    {
+      "id": 4,
+      "text": "Implement Sidebar",
+      "complete": false
+    },
+    {
+      "id": 5,
+      "text": "Fetch API Data",
+      "complete": false
+    },
+    {
+      "id": 6,
+      "text": "Create Todo List",
+      "complete": false
+    },
+    {
+      "id": 7,
+      "text": "Add Todo Item",
+      "complete": false
+    },
+    {
+      "id": 8,
+      "text": "Delete Todo Item",
+      "complete": false
+    },
+    {
+      "id": 9,
+      "text": "Toggle Todo Complete",
+      "complete": false
+    },
+    {
+      "id": 10,
+      "text": "Style with Ant Design",
+      "complete": false
+    },
+    {
+      "id": 11,
+      "text": "Deploy Application",
+      "complete": false
+    },
+    {
+      "id": 12,
+      "text": "Write Documentation",
+      "complete": false
+    },
+    {
+      "id": 13,
+      "text": "Create Unit Tests",
+      "complete": false
+    },
+    {
+      "id": 14,
+      "text": "Set Up CI/CD",
+      "complete": false
+    },
+    {
+      "id": 15,
+      "text": "Refactor Code",
+      "complete": false
+    },
+    {
+      "id": 16,
+      "text": "Optimize Performance",
+      "complete": false
+    },
+    {
+      "id": 17,
+      "text": "Implement Authentication",
+      "complete": false
+    },
+    {
+      "id": 18,
+      "text": "Handle Errors",
+      "complete": false
+    },
+    {
+      "id": 19,
+      "text": "Set Up Redux Persist",
+      "complete": false
+    },
+    {
+      "id": 20,
+      "text": "Improve UI/UX",
+      "complete": false
+    }
+  ]
+}
